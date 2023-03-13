@@ -46,9 +46,7 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 	                                        Training score                Testing score 
 			Linear Regression	0.780750		       0.782392
 			
-			Lasso Regression	0.780731		       0.782369
-			
-			Random Forest    	0.993811             	       0.956433
+			Random Forest    	0.893811             	       0.896433
 
 
 
